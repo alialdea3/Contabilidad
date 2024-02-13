@@ -1,0 +1,36 @@
+ESTADISTICAS ANUALES DE LA EMPRESA 'MUEBLES AMABLE'
+
+[1mProducto		     Coste		Facturacion		 Beneficio[0m
+Sofa		 183507.70		  206164.38		  22656.67
+Escritorio		 189490.91		  227102.62		  37611.72
+SillaCocina		 120194.51		  164778.52		  44584.01
+MesaCocina		 119846.30		  193405.02		  73558.72
+Butaca		 238995.70		  333396.22		  94400.52
+
+[1mMes		     Coste		Facturacion		 Beneficio[0m
+Diciembre		  76787.20		   83396.91		   6609.71
+Mayo		  73559.50		   84259.20		  10699.70
+Noviembre		  74963.70		   88957.00		  13993.30
+Enero		  75741.90		   90568.41		  14826.51
+Marzo		  67946.49		   86990.40		  19043.91
+Febrero		  69962.91		   89116.20		  19153.29
+Junio		  73483.00		   97934.40		  24451.40
+Septiembre		  68952.40		   93887.90		  24935.50
+Abril		  71901.00		  101036.51		  29135.51
+Octubre		  68630.80		  102075.30		  33444.50
+Julio		  62523.00		   99976.80		  37453.80
+Agosto		  67583.20		  106647.70		  39064.51
+
+
+El producto con el MÁXIMO beneficio anual es: Butaca
+El producto con el MÍNIMO beneficio anual es: Sofa
+
+El MEJOR mes del año es: Agosto
+El PEOR mes del año es: Diciembre
+
+Los GASTOS totales son: 852035.06
+Las VENTAS totales son: 1124846.75
+[1mEl BENEFICIO anual es: 272811.69[0m
+
+La media mensual de GASTOS son: 71002.92
+La media mensual de VENTAS son: 93737.23
